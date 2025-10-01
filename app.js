@@ -3,15 +3,15 @@
 // Application data
 const appData = {
   "personalInfo": {
-    "name": "Alex Johnson",
+    "name": "Creflo Joel",
     "title": "Full Stack Developer",
-    "bio": "Passionate full-stack developer with 3+ years of experience building web applications. I love creating efficient, scalable solutions and learning new technologies.",
-    "email": "alex.johnson@email.com",
-    "location": "San Francisco, CA",
+    "bio": "Passionate full-stack developer with 3+ years of experience building applications. I love creating efficient, scalable solutions and learning new technologies.",
+    "email": "crefloasirjoel@gmail.com",
+    "location": "Bengaluru, Karnataka,INDIA",
     "social": {
-      "github": "https://github.com/alexjohnson",
-      "linkedin": "https://linkedin.com/in/alexjohnson",
-      "twitter": "https://twitter.com/alexjohnson"
+      "github": "https://github.com/CrefloJoel",
+      // "linkedin": "https://linkedin.com/in/alexjohnson",
+      // "twitter": "https://twitter.com/alexjohnson"
     }
   },
   "skills": [
@@ -20,17 +20,11 @@ const appData = {
   ],
   "experience": [
     {
-      "title": "Full Stack Developer",
-      "company": "Tech Startup Inc.",
+      "title": "Software Engineer",
+      "company": "LTIMindtree",
       "period": "2022 - Present",
       "description": "Developed and maintained web applications using React and Python Flask"
     },
-    {
-      "title": "Junior Developer",
-      "company": "Web Solutions LLC",
-      "period": "2021 - 2022", 
-      "description": "Built responsive websites and assisted with backend API development"
-    }
   ],
   "projects": [
     {
@@ -39,8 +33,8 @@ const appData = {
       "description": "Full-stack e-commerce platform with user authentication, payment integration, and admin dashboard",
       "technologies": ["React", "Node.js", "MongoDB", "Stripe API"],
       "category": "Full Stack",
-      "github": "https://github.com/alexjohnson/ecommerce-platform",
-      "demo": "https://ecommerce-demo.com"
+      // "github": "https://github.com/alexjohnson/ecommerce-platform",
+      // "demo": "https://ecommerce-demo.com"
     },
     {
       "id": 2,
@@ -48,8 +42,8 @@ const appData = {
       "description": "Real-time weather dashboard with location-based forecasts and interactive maps",
       "technologies": ["Python", "Flask", "JavaScript", "Weather API"],
       "category": "Web App",
-      "github": "https://github.com/alexjohnson/weather-dashboard",
-      "demo": "https://weather-demo.com"
+      // "github": "https://github.com/alexjohnson/weather-dashboard",
+      // "demo": "https://weather-demo.com"
     },
     {
       "id": 3,
@@ -57,26 +51,26 @@ const appData = {
       "description": "RESTful API for task management with user authentication and team collaboration features",
       "technologies": ["Python", "Django", "PostgreSQL", "JWT"],
       "category": "Backend",
-      "github": "https://github.com/alexjohnson/task-api",
-      "demo": null
+      // "github": "https://github.com/alexjohnson/task-api",
+      // "demo": null
     },
-    {
-      "id": 4,
-      "title": "Portfolio Website",
-      "description": "Responsive personal portfolio website built with modern web technologies",
-      "technologies": ["React", "CSS3", "JavaScript", "Netlify"],
-      "category": "Frontend",
-      "github": "https://github.com/alexjohnson/portfolio",
-      "demo": "https://alexjohnson-portfolio.com"
-    },
+    // {
+    //   "id": 4,
+    //   "title": "Portfolio Website",
+    //   "description": "Responsive personal portfolio website built with modern web technologies",
+    //   "technologies": ["React", "CSS3", "JavaScript", "Netlify"],
+    //   "category": "Frontend",
+    //   "github": "https://github.com/alexjohnson/portfolio",
+    //   "demo": "https://alexjohnson-portfolio.com"
+    // },
     {
       "id": 5,
       "title": "Chat Application",
       "description": "Real-time chat application with rooms, private messaging, and file sharing",
       "technologies": ["Socket.io", "Node.js", "React", "MongoDB"],
       "category": "Full Stack",
-      "github": "https://github.com/alexjohnson/chat-app",
-      "demo": "https://chat-demo.com"
+      // "github": "https://github.com/alexjohnson/chat-app",
+      // "demo": "https://chat-demo.com"
     },
     {
       "id": 6,
@@ -84,8 +78,8 @@ const appData = {
       "description": "Interactive dashboard for data visualization with multiple chart types and filtering options",
       "technologies": ["Python", "Flask", "D3.js", "Pandas"],
       "category": "Data Science",
-      "github": "https://github.com/alexjohnson/data-viz",
-      "demo": "https://dataviz-demo.com"
+      // "github": "https://github.com/alexjohnson/data-viz",
+      // "demo": "https://dataviz-demo.com"
     }
   ],
   "categories": ["All", "Full Stack", "Frontend", "Backend", "Web App", "Data Science"]
