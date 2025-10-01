@@ -23,8 +23,9 @@ const appData = {
       "title": "Software Engineer",
       "company": "LTIMindtree",
       "period": "2022 - Present",
-      "description": "Developed and maintained web applications using React and Python Flask"
-    },
+      "description": ["I am a dedicated Python Developer focused on creating, optimizing, and deploying essential tools and applications.", 
+                     "Leveraging extensive experience in CI/CD pipelines (e.g., Jenkins, GitLab CI, GitHub Actions), I ensure seamless integration, testing, and continuous delivery of software. My work is underpinned by a solid domain expertise in High-Performance Computing (HPC), which allows me to design and implement solutions that efficiently handle large-scale computations and system management challenges."
+  ]},
   ],
   "projects": [
     {
