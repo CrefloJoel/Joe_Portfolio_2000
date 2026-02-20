@@ -10,13 +10,13 @@ const appData = {
     "location": "Bengaluru, Karnataka,INDIA",
     "social": {
       "github": "https://github.com/CrefloJoel",
-      // "linkedin": "https://linkedin.com/in/alexjohnson",
+      "linkedin": "https://www.linkedin.com/in/creflo-joel-9430311b2/",
       // "twitter": "https://twitter.com/alexjohnson"
     }
   },
   "skills": [
-    "Python", "JavaScript", "React", "Flask", "Django", "Node.js", 
-    "PostgreSQL", "MongoDB", "AWS", "Docker", "Git", "HTML/CSS"
+    "Python", "JavaScript", "React", "Flask", "Django", "Node.js","FastAPI","REST","SOAP", 
+    "PostgreSQL", "MySql","MongoDB", "AWS", "Docker", "Git", "HTML/CSS"
   ],
   "experience": [
     {
